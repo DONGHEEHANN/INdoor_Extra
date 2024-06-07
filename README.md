@@ -4,8 +4,8 @@
 
 ### PART. Backend (Server)
 
-[Frontend : APP](https://github.com/PROMLEE/Indoor_map_flutter)  
-[Backend : Algoritm + Server Part](https://github.com/PROMLEE/Indoor_map_algorithm)  
+[Frontend : APP](https://github.com/easthee/INdoor_Flutter)  
+[Backend : Algoritm + Server Part](https://github.com/easthee/INdoor_server)  
 <!-- [부가기능: React Part](https://github.com/PROMLEE/Indoor_map_react)   -->
 
 ![Icon](src/ic_launcher.png)  
